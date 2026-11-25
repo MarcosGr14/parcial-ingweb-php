@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Academia de Policía - Admisión</title>
+</head>
+<body>
+    <h2>Formulario de Reclutamiento - Academia de Policía</h2>
+    <form action="problema1.php" method="POST">
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+
+        <label for="edad">Edad:</label><br>
+        <input type="number" id="edad" name="edad" min="1" required><br><br>
+
+        <label for="estatura">Estatura (en metros, ej: 1.85):</label><br>
+        <input type="number" id="estatura" name="estatura" step="0.01" min="0" required><br><br>
+
+        <input type="submit" value="Enviar Datos">
+    </form>
+</body>
+</html>
+

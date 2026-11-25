@@ -1,0 +1,42 @@
+ID: 101
+Nombre: Finca Las Lajas
+Tipo de avión: 0
+Hectáreas: 10.00
+Descuento: B/.1,070.00
+Precio Final: B/.9,630.00
+----------------------------------------
+ID: 123355
+Nombre: Pepe
+Tipo de avión: 3
+Hectáreas: 70.00
+Descuento: B/.1,498.00
+Precio Final: B/.28,462.00
+----------------------------------------
+ID: 6776433
+Nombre: Maria
+Tipo de avión: 1
+Hectáreas: 56.00
+Descuento: B/.4,793.60
+Precio Final: B/.43,142.40
+----------------------------------------
+ID: 656546745
+Nombre: gdgd
+Tipo de avión: 0
+Hectáreas: 2.00
+Descuento: B/.214.00
+Precio Final: B/.1,926.00
+----------------------------------------
+ID: 35654
+Nombre: Juan
+Tipo de avión: 2
+Hectáreas: 60.00
+Descuento: B/.1,926.00
+Precio Final: B/.36,594.00
+----------------------------------------
+ID: 201
+Nombre: Finca Verde
+Tipo de avión: 1
+Hectáreas: 5.00
+Descuento: B/.428.00
+Precio Final: B/.3,852.00
+----------------------------------------
